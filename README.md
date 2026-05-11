@@ -6,11 +6,11 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Jack Vera Macias
+* Ocupación: Estudiante
+* Lugar de residencia: Guayaquil
+* Sitio web: En proceso
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
+* Series y peliculas de ciencia ficcion
