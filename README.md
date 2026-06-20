@@ -75,6 +75,20 @@ Repositorio: https://github.com/cevicheman/Rutas-floydwharsall/
 
 ---
 
+### Currículum Web
+
+Sitio web personal desarrollado para presentar mi perfil académico y profesional. El proyecto incluye información sobre mi formación, habilidades, proyectos e intereses, y se encuentra publicado mediante GitHub Pages para facilitar su acceso desde cualquier navegador.
+
+Este proyecto me permitió aplicar conceptos de desarrollo web aprendidos durante el curso, así como mejorar la organización del contenido y la presentación de información profesional en línea.
+
+**Tecnologías utilizadas**
+
+- HTML
+- CSS
+- GitHub Pages
+
+Repositorio: https://github.com/cevicheman/curriculum
+
 
 ---
 
