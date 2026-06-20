@@ -145,14 +145,11 @@ Mi currículum web fue desarrollado utilizando HTML para la estructura del conte
 * Ciberseguridad
 * Ethical Hacking
 * Redes de computadoras
-* Desarrollo de software
 * Programación
 * Linux
-* Inteligencia artificial
-* Algoritmos y estructuras de datos
 * Hackathons
 * Competencias tecnológicas
-* Aprendizaje continuo
+* Series y Peliculas de ficcion :)
 
 ---
 
