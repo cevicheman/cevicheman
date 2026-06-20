@@ -54,7 +54,7 @@ Fue uno de mis primeros proyectos completos y representó una experiencia import
 * Arte ASCII
 * Estructuras de control y modularización
 
-![Escape Estelar](images/escape-estelar.png)
+Repositorio: https://github.com/cevicheman/escape-estelar
 
 ---
 
@@ -71,15 +71,10 @@ Este proyecto me permitió aplicar conceptos relacionados con algoritmos, grafos
 * Grafos
 * Estructuras de datos
 
-![App de Emergencias](images/app-emergencias.png)
+Repositorio: https://github.com/cevicheman/Rutas-floydwharsall/
 
 ---
 
-### Proyecto en desarrollo
-
-Actualmente me encuentro trabajando en nuevos proyectos académicos relacionados con programación y ciberseguridad que serán incorporados próximamente a este repositorio.
-
-![Proyecto en desarrollo](images/proyecto-futuro.png)
 
 ---
 
